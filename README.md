@@ -1,6 +1,6 @@
 # Frontend Mentor Challenge Solutions
 
-Welcome to my repository of solutions to challenges from [Frontend Mentor](https://www.frontendmentor.io/)! These challenges are designed to help improve proficiency in HTML, CSS, and JavaScript, and I'm excited to share my solutions with you.
+Welcome to my repository of solutions to challenges from [Frontend Mentor!](https://www.frontendmentor.io/) These challenges are designed to help improve proficiency in HTML, CSS, and JavaScript, and I'm excited to share my solutions with you.
 
 ## **Credit**
 - Challenge instructions and designs provided by [Frontend Mentor](https://www.frontendmentor.io/)
